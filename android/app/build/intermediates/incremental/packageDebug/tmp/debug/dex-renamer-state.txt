@@ -1,0 +1,4 @@
+#Mon Jul 08 20:04:33 BRT 2019
+base.0=/home/sandroni/reactnative/exercicios/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
